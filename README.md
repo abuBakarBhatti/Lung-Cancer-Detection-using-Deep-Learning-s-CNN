@@ -1,6 +1,8 @@
 # Lung-Cancer-Detection-using-Deep-Learning-s-CNN
 Overview: 
 This repository contains a deep-learning model for the detection of lung cancer using X-ray images. The model is based on Convolutional Neural Networks (CNNs) and has been trained on a small dataset consisting of approximately 478 images for training and 106 images for validation. This README file provides an overview of the project, instructions for running the model, and other relevant information.
+Note: You can also find trained model with .h5 extension along with the interface app.py in this repository.
+
 
 Dataset:  
 The dataset used for training and validation includes a collection of X-ray images of lung scans. The dataset is divided into two main subsets:
